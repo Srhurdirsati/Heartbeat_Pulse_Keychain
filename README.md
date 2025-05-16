@@ -4,11 +4,11 @@ HI GUYS! I just tried to make a HeartBeat Pulse Keychain that operates through a
 
 ## PCB
 
-![PCB View](https://github.com/user-attachments/assets/22eef261-c0bc-4578-bca8-3874fa193bd9)
+![PCB Final](https://github.com/user-attachments/assets/1e0a8216-6885-44cf-9eb9-47d2d78868ad)
 
 ## SCHEMATIC
 
-![Schematic](https://github.com/user-attachments/assets/f814c635-aa1e-42b8-ba8e-878872211f2c)
+![Schematic Final](https://github.com/user-attachments/assets/7aa8828d-4afb-4821-86fb-0b4d724159dd)
 
 ## <ins>**FEATURES**</ins>
 
@@ -29,8 +29,6 @@ Just make the schematic as I made , Get the components and PCB ordered.... Enjoy
 **1x Battery Holder**
 
 **2x 10uF Capacitors**
-
-**1x Disk Vibration Motor (Just enough size to fit on the board)**
 
 **6x 5mm LEDs**
 
